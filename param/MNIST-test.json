@@ -1,0 +1,24 @@
+{
+  "dataset_type": "MNIST",
+  "name": "MNIST-test",
+  "parampath": "None",
+  "start_idx": 60000,
+  "data_num": 10000,
+  "clu_num": 10000,
+  "lr": 0.001,
+  "batch_size": 256,
+  "n_clusters": 10,
+  "ae_epochs": 200,
+  "dec_epochs": 300,
+  "noise": 0.2,
+  "hidden": 10,
+  "seed": 0,
+  "start_time": 30,
+  "ratio": [
+    0.1,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "pretrain_ae": 1
+}

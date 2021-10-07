@@ -1,0 +1,24 @@
+{
+  "dataset_type": "USPS",
+  "name": "USPS",
+  "parampath": "None",
+  "start_idx": 0,
+  "data_num": 9298,
+  "clu_num": 3000,
+  "lr": 0.001,
+  "batch_size": 256,
+  "n_clusters": 10,
+  "ae_epochs": 200,
+  "dec_epochs": 300,
+  "noise": 0.23,
+  "hidden": 10,
+  "seed": 0,
+  "start_time": 50,
+  "ratio": [
+    0.1,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "pretrain_ae": 0
+}
