@@ -62,6 +62,18 @@ python autotrain.py
   ```
 where the *dataset* is one of the seven datasets (MNIST-full, MNIST-test, USPS, Fashion-MNIST, Reuters-10k, HAR, and Pendigits)
 
+If you find this file useful in your research, please consider citing:
+
+```
+@inproceedings{wu2022generalized,
+  title={Generalized Clustering and Multi-Manifold Learning with Geometric Structure Preservation},
+  author={Wu, Lirong and Liu, Zicheng and Xia, Jun and Zang, Zelin and Li, Siyuan and Li, Stan Z},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={139--147},
+  year={2022}
+}
+```
+
 ## License
 
 GCML is released under the MIT license.
