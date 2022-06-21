@@ -10,6 +10,8 @@ The code includes the following modules:
 * Evaluation metrics 
 * Visualisation
 
+
+
 ## Requirements
 
 * pytorch == 1.3.1
@@ -17,6 +19,8 @@ The code includes the following modules:
 * numpy == 1.18.5
 * scikit-learn == 0.21.3
 * matplotlib == 3.1.1
+
+
 
 ## Description
 
@@ -39,11 +43,15 @@ The code includes the following modules:
   * visualize() -- Auxiliary tools for visualizing intermediate results
   * Clustering() -- For initializing the clustering centers
 
+
+
 ## Dataset
 
 The datasets used in this paper are available in:
 
 https://drive.google.com/file/d/1nNenJQVBJ-R4B6rs_K_YxGrVyZq4kAfz/view?usp=sharing
+
+
 
 ## Running the code
 
@@ -62,6 +70,8 @@ python autotrain.py
   ```
 where the *dataset* is one of the seven datasets (MNIST-full, MNIST-test, USPS, Fashion-MNIST, Reuters-10k, HAR, and Pendigits)
 
+
+
 If you find this file useful in your research, please consider citing:
 
 ```
@@ -73,6 +83,8 @@ If you find this file useful in your research, please consider citing:
   year={2022}
 }
 ```
+
+
 
 ## License
 
