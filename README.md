@@ -72,7 +72,9 @@ where the *dataset* is one of the seven datasets (MNIST-full, MNIST-test, USPS, 
 
 
 
-If you find this file useful in your research, please consider citing:
+## Citation
+
+If you find this project useful for your research, please use the following BibTeX entry.
 
 ```
 @inproceedings{wu2022generalized,
@@ -83,9 +85,3 @@ If you find this file useful in your research, please consider citing:
   year={2022}
 }
 ```
-
-
-
-## License
-
-GCML is released under the MIT license.
